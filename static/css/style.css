@@ -162,7 +162,8 @@ footer{
 @media(max-width: 768px){
 	header #brand,
 	header nav,
-	header nav li{
+	header nav li,
+	#boxes .box{
 		float: none;
 		text-align: center;
 		width: 100%
@@ -174,10 +175,5 @@ footer{
 
 	#showcase h1{
 		margin-top: 40px;
-	}
-
-	#boxes .box{
-		float: none;
-		width: 100%;
 	}
 }
