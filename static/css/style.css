@@ -176,9 +176,8 @@ footer{
 		margin-top: 40px;
 	}
 
-	#boxes{
+	#boxes .box{
 		float: none;
-		text-align: center;
 		width: 100%;
 	}
 }
