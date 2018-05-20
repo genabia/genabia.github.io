@@ -164,7 +164,8 @@ footer{
 	header nav,
 	header nav li,
 	#boxes .box,
-	article#main-col aside#sidebar{
+	article#main-col,
+	aside#sidebar{
 		float: none;
 		text-align: center;
 		width: 100%
