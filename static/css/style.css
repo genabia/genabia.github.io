@@ -175,4 +175,10 @@ footer{
 	#showcase h1{
 		margin-top: 40px;
 	}
+
+	#boxes{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
 }
